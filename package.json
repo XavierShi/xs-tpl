@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/XavierShi/xs-tpl/issues"
   },
-  "homepage": "https://github.com/XavierShi/xs-tpl#readme"
+  "homepage": "https://github.com/XavierShi/xs-tpl#readme",
+  "devDependencies": {
+    "xs-cli": "^0.0.4"
+  }
 }
