@@ -1,0 +1,19 @@
+{
+  "name": "xs-tpl",
+  "version": "1.0.0",
+  "description": "A pure template.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XavierShi/xs-tpl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XavierShi/xs-tpl/issues"
+  },
+  "homepage": "https://github.com/XavierShi/xs-tpl#readme"
+}
